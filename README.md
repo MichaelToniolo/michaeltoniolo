@@ -27,8 +27,8 @@ Some ideas and Headache I have...
 
 <div ">
 
+  
   ![Snake animation](https://github.com/michaeltoniolo/michaeltoniolo/blob/output/github-contribution-grid-snake.svg)
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 
 </div>
