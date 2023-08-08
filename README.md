@@ -27,7 +27,6 @@ Some ideas and Headache I have...
 
 <div ">
 
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.0.0
+  ![Snake animation](https://github.com/michaeltoniolo/michaeltoniolo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
