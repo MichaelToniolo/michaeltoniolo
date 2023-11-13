@@ -1,4 +1,5 @@
-# Ahoy!! 👋<br>MichaelToniolo<br><br>Some ideas and Headache I have...<br><br>🧠 I’m currently working on my personal mind...<br>🌱 I’m currently learning Artificial Intelligence...<br>💻 I’m looking to collaborate on Linux Communities...<br>🤔 I’m looking for help to my mind ...<br>💬 Ask me about anything...<br>⚡ Fun fact: Beers n Games ...
+# Ahoy!! 👋:
+<br>MichaelToniolo<br><br>Some ideas and Headache I have...<br><br>🧠 I’m currently working on my personal mind...<br>🌱 I’m currently learning Artificial Intelligence...<br>💻 I’m looking to collaborate on Linux Communities...<br>🤔 I’m looking for help to my mind ...<br>💬 Ask me about anything...<br>⚡ Fun fact: Beers n Games ...
 
 
 # 💻 Tech Stack:
