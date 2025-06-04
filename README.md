@@ -1,5 +1,5 @@
 # Ahoy!! 👋:
-<br>MichaelToniolo<br><br>Some ideas and Headache I have...<br><br>🧠 I’m currently working on my personal mind...<br>💻 I’m looking to collaborate on Linux Communities...<br>🤔 I’m looking for help to my mind ...<br>💬 Ask me about anything...<br>⚡ Fun fact: Beers n Games ...
+<br>MichaelToniolo<br><br>Some ideas and Headaches I have...<br><br>🧠 I've been currently working on my personal thoughts...<br>💻 I’m looking to collaborate on Linux Communities...<br>🤔 I’m looking for help to improve my ideas...<br>💬 Ask me anything...<br>⚡ Fun fact: Beer n Games ...
 
 
 # 📊 GitHub Stats:
